@@ -1,0 +1,2 @@
+#!/bin/sh
+screen -dmS FireDomotic /home/pi/firedomoticz/firedomoticz.sh
